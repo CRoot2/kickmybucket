@@ -10,3 +10,8 @@ body {
 	height: 80px;
 	background-color: black;
 }
+
+button {
+  padding: 20px;
+  cursor: pointer;
+}
