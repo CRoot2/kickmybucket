@@ -12,6 +12,12 @@ body {
 }
 
 button {
-  padding: 20px;
-  cursor: pointer;
+	padding: 20px;
+cursor: pointer;
+background-color: transparent;
+border: none;
+color: white;
+}
+a {
+	color: white;
 }
